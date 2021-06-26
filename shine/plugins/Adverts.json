@@ -1,0 +1,43 @@
+{
+    "Adverts": [
+        {
+            "DefaultTemplate": "ChatNotification",
+            "IntervalInSeconds": 60,
+            "Messages": [
+                {
+                    "Message": "Shut your fuckin growler and have fun"
+                },
+                {
+                    "Message": "Check out fortreeforums.xyz/ns2 for tutorials and configurations"
+                },
+		{
+		    "Message": "Both pros and rookies alike are welcome here"
+		},
+		{
+		    "Message": "You need 15 hours command time to command on this server. You can practice if there are < 10 players"
+		},
+		{
+		    "Message": "All registered members of Fortree Forums are entitled to a reserved server slot"
+		},
+		{
+		    "Message": "Smurfing is not allowed and will result in a permanent ban"
+		},
+		{
+		    "Message": "You can earn in-game badges by posting on Fortree Forums and exchanging your on-site points for shop items"
+		}
+            ],
+            "RandomiseOrder": false
+        }
+    ],
+    "LogLevel": "INFO",
+    "Templates": {
+        "ChatNotification": {
+            "Colour": [ 173, 116, 255 ],
+            "Prefix": "[INFO] ",
+            "PrefixColour": [ 99, 78, 255 ],
+            "Type": "chat"
+        }
+    },
+    "TriggeredAdverts": [],
+    "__Version": "2.4"
+}
