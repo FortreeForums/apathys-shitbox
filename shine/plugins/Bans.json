@@ -1,0 +1,46 @@
+{
+    "AlwaysBlockFamilySharedPlayers": false,
+    "BanSharerOnSharedBan": false,
+    "Banned": {
+        "1072985694": {
+            "BannedBy": "",
+            "Duration": 0,
+            "Name": "shishka",
+            "Reason": "Smurfing",
+            "UnbanTime": 0
+        },
+        "1183724752": {
+            "BannedBy": "",
+            "Duration": 0,
+            "Name": "Macro",
+            "Reason": "Smurfing",
+            "UnbanTime": 0
+        },
+        "1188976876": {
+            "BannedBy": "",
+            "Duration": 0,
+            "Name": "MR BEAST",
+            "Reason": "Smurfing",
+            "UnbanTime": 0
+        },
+        "1209403595": {
+            "BannedBy": "",
+            "Duration": 0,
+            "Name": "PLOBLITZ",
+            "Reason": "Smurfing",
+            "UnbanTime": 0
+        }
+    },
+    "BansSubmitArguments": [],
+    "BansSubmitURL": "",
+    "BansURL": "",
+    "CheckFamilySharing": false,
+    "DefaultBanTime": 60,
+    "GetBansFromWeb": false,
+    "GetBansWithPOST": false,
+    "LogLevel": "INFO",
+    "MaxSubmitRetries": 3,
+    "SubmitTimeout": 5,
+    "VanillaConfigUpToDate": true,
+    "__Version": "1.6"
+}

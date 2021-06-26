@@ -1,0 +1,15 @@
+{
+    "MessageDelay": 5,
+    "ShowForBots": false,
+    "ShowGeneric": true,
+    "Users": {
+        "68118554": {
+            "Leave": "",
+        "Welcome": {
+          "Message": "apathys back from shagging your aul wan",
+          "Colour": [ 86, 18, 78 ],
+        }
+      }
+    },
+    "__Version": "1.4"
+}

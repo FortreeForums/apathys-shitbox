@@ -1,0 +1,19 @@
+{
+    "IgnoreBots": true,
+    "MessageNameColor": [ 0, 255, 0 ],
+    "Teams": {
+        "Team1": {
+            "InformAboutFreeSpace": [ 3 ],
+            "InformMessage": "A player left the %s. So you can join up now.",
+            "MaxPlayers": 10,
+            "TooManyMessage": "The %s have currently too many players. Please spectate until the round ends."
+        },
+        "Team2": {
+            "InformAboutFreeSpace": [ 3 ],
+            "InformMessage": "A player left the %s. So you can join up now.",
+            "MaxPlayers": 10,
+            "TooManyMessage": "The %s have currently too many players. Please spectate until the round ends."
+        }
+    },
+    "__Version": "1.0"
+}

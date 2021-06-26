@@ -1,0 +1,11 @@
+{
+    "MenuEntryName": "Server Stats",
+    "MenuEntryUrl": "http://fortreeforums.xyz/servers/ns2/wonitor/",
+    "SendNS2PlusStats": false,
+    "SendNS2PlusStatsKillFeed": false,
+    "SendWonitorStats": true,
+    "ServerIdentifier": "apathys shitbox | pro and rookie friendly",
+    "ShowMenuEntry": true,
+    "WonitorURL": "http://localhost/update.php",
+    "__Version": "2.1"
+}

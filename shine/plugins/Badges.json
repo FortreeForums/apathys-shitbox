@@ -1,0 +1,30 @@
+{
+    "BadgeNames": {
+    	"IE": "Nationality - Ireland",
+    	"ff_admin": "Administrator",
+    	"ff_blackfrost": "Black Frost",
+    	"ff_blackfrost2": "Black Frost",
+    	"ff_boulder": "Boulder",
+    	"ff_cascade": "Cascade",
+    	"ff_earth": "Earth",
+    	"ff_marsh": "Marsh",
+    	"ff_master": "Master Ball",
+    	"ff_rainbow": "Rainbow Badge",
+    	"ff_seedbot": "Bot",
+    	"ff_seedbro": "Seedbro",
+    	"ff_soul": "Soul",
+    	"ff_thunder": "Thunder Badge",
+    	"ff_volcano": "Volcano",
+    	"clover": "Clover",
+    	"ghost": "Ghost",
+    	"heart": "Heart",
+    	"nyancat": "Nyancat",
+    	"r2d2": "R2D2",
+    	"skull": "Skull",
+    	"troll": "Troll",
+    	"weed": "Weed",
+    	"yoda": "Yoda"
+    },
+    "LogLevel": "INFO",
+    "__Version": "2.3"
+}
