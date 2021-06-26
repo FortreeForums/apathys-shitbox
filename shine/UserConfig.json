@@ -1,0 +1,134 @@
+{
+    "Badges": {
+    	"2": [
+    		"ff_admin",
+    		"ff_seedbot",
+    		"ff_seedbro"
+    	],
+    	"3": [
+    		"ff_boulder",
+    		"ff_cascade",
+    		"ff_earth",
+    		"ff_marsh",
+    		"ff_master",
+    		"ff_rainbow",
+    		"ff_soul",
+    		"ff_thunder",
+    		"ff_volcano"
+    	],
+    	"4": [
+    		"clover",
+    		"ghost",
+    		"heart",
+    		"nyancat",
+    		"r2d2",
+    		"skull",
+    		"troll",
+    		"weed",
+    		"yoda"
+    	],
+    	"5": [
+    		"ff_blackfrost",
+    		"ff_blackfrost2"
+    	]
+    },
+    "Groups": {
+        "admin_group": {
+            "Commands": [ "sh_afk" ],
+            "Immunity": 50,
+            "IsBlacklist": true,
+            "Badges": [ "ff_admin",
+            		"ff_boulder",
+            		"ff_cascade",
+            		"ff_earth",
+            		"ff_marsh",
+            		"ff_master",
+            		"ff_rainbow",
+            		"ff_seedbro",
+            		"ff_soul",
+            		"ff_thunder",
+            		"ff_volcano",
+            		"clover",
+            		"ghost",
+            		"heart",
+            		"nyancat",
+            		"r2d2"
+            		"skull",
+            		"troll",
+            		"weed",
+            		"yoda" ]
+        },
+        "mod_group": {
+            "Commands": [ "sh_reset", "sh_ban" ],
+            "Immunity": 10,
+            "IsBlacklist": false
+        },
+        "ff_group": {
+            "Commands": [ "sh_kick" ],
+            "Immunity": 5,
+            "IsBlacklist": false,
+            "Badges": [ "ff_boulder",
+            		"ff_cascade",
+            		"ff_earth",
+            		"ff_marsh",
+            		"ff_master",
+            		"ff_rainbow",
+            		"ff_soul",
+            		"ff_thunder",
+            		"ff_volcano",
+            		"clover",
+            		"ghost",
+            		"heart",
+            		"nyancat",
+            		"r2d2"
+            		"skull",
+            		"troll",
+            		"weed",
+            		"yoda" ]            
+        },
+        "bot_group": {
+            "Commands": [],
+            "Immunity": 0,
+            "IsBlacklist": false,
+            "Badges": [ "ff_seedbot" ]
+        },
+        "DefaultGroup": {
+            "Commands": [],
+            "Immunity": 0,
+            "IsBlacklist": false,
+            "Badges": []
+        }
+    },
+    "Users": {
+        "1147827979": {
+            "Group": "admin_group",
+            "ForcedBadges": {
+		"2": "ff_admin"
+            }
+        },
+        "68118554": {
+            "Group": "admin_group",
+            "ForcedBadges": {
+		"1": "IE",
+		"2": "ff_admin"
+            },
+            "Badges": [ "ff_blackfrost", 
+            		"ff_blackfrost2" ]
+        },
+        "77815838": {
+            "Group": "admin_group",
+            "ForcedBadges": {
+		"2": "ff_admin"
+            }
+        },
+        "441790535": {
+            "Group": "admin_group"
+        },
+        "1192072595": {
+            "Group": "bot_group"
+        },
+        "85827399": {
+            "Badge": "ff_seedbro"
+        }
+    }
+}
