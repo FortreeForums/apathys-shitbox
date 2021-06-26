@@ -1,0 +1,6 @@
+{
+  "maps":["ns2_biodome","ns2_caged","ns2_descent","ns2_docking","ns2_kodiak","ns2_metro","ns2_mineshaft","ns2_origin","ns2_refinery","ns2_summit","ns2_tram","ns2_unearthed","ns2_veil"],
+  "time":20,
+  "mode":"order",
+  "mods":["706d242","c6fbbb0","626fc17b","4292cdec","72c5fd4e","619984c","b7149f9","235ee3a6","1e7463b9","90dfba2d"]
+}
